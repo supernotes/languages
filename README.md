@@ -2,6 +2,9 @@
 
 Community-contributed translation files for [Supernotes](https://supernotes.app), the collaborative note-taking and knowledge management app.
 
+![3 2 2](https://github.com/user-attachments/assets/76ceb7f9-193a-44a1-8425-28854be209e8)
+
+
 ## Available Languages
 
 | Flag | Language | Code | Status |
