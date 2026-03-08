@@ -1,4 +1,4 @@
-# Supernotes Community Translations
+# Supernotes Languages
 
 Community-contributed translation files for [Supernotes](https://supernotes.app), the collaborative note-taking and knowledge management app.
 
