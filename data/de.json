@@ -148,6 +148,8 @@
     "cards": "Karten",
     "copy_code_block": "Codeblock kopieren",
     "copy_email": "E-Mail kopieren",
+    "copy_image": "Bild kopieren",
+    "copy_image_url": "Bild-URL kopieren",
     "copy_url": "URL kopieren",
     "daily_card_assigned_to": "Tageskarte zugewiesen an",
     "drop_card": "Karte hier ablegen",

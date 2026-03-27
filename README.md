@@ -7,17 +7,18 @@ Community-contributed translation files for [Supernotes](https://supernotes.app)
 
 ## Available Languages
 
-| Flag | Language | Code | Status |
-|------|----------|------|--------|
-| 🇬🇧 | English | `en` | Source |
-| 🇬🇧 | English (UK) | `en-gb` | Complete |
-| 🇩🇪 | German | `de` | Complete |
-| 🇪🇸 | Spanish | `es` | Complete |
-| 🇫🇷 | French | `fr` | Complete |
-| 🇮🇩 | Indonesian | `id` | Complete |
-| 🇮🇹 | Italian | `it` | Complete |
-| 🇵🇹 | Portuguese | `pt` | Complete |
-| 🇧🇷 | Portuguese (Brazil) | `pt-br` | Complete |
+| Flag | Language | Code | Status | Translator |
+|------|----------|------|--------|------------|
+| 🇬🇧 | English | `en` | Source | [@supernotes](https://github.com/supernotes) |
+| 🇬🇧 | English (UK) | `en-gb` | Complete | [@supernotes](https://github.com/supernotes) |
+| 🇩🇪 | German | `de` | Complete | [@supernotes](https://github.com/supernotes) |
+| 🇪🇸 | Spanish | `es` | Complete | [@supernotes](https://github.com/supernotes) |
+| 🇫🇷 | French | `fr` | Complete | [@supernotes](https://github.com/supernotes) |
+| 🇮🇩 | Indonesian | `id` | Complete | [@supernotes](https://github.com/supernotes) |
+| 🇮🇹 | Italian | `it` | Complete | [@supernotes](https://github.com/supernotes) |
+| 🇵🇹 | Portuguese | `pt` | Complete | [@supernotes](https://github.com/supernotes) |
+| 🇧🇷 | Portuguese (Brazil) | `pt-br` | Complete | [@supernotes](https://github.com/supernotes) |
+| 🇨🇳 | Chinese (Simplified) | `zh-cn` | Complete | [@hildxd](https://github.com/hildxd) |
 
 ## File Structure
 

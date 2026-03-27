@@ -148,6 +148,8 @@
     "cards": "Cards",
     "copy_code_block": "Copy code block",
     "copy_email": "Copy Email",
+    "copy_image": "Copy Image",
+    "copy_image_url": "Copy Image URL",
     "copy_url": "Copy URL",
     "daily_card_assigned_to": "Daily card assigned to",
     "drop_card": "Drop Card",
