@@ -19,6 +19,7 @@ Community-contributed translation files for [Supernotes](https://supernotes.app)
 | 🇵🇹 | Portuguese | `pt` | Complete | [@supernotes](https://github.com/supernotes) |
 | 🇧🇷 | Portuguese (Brazil) | `pt-br` | Complete | [@supernotes](https://github.com/supernotes) |
 | 🇨🇳 | Chinese (Simplified) | `zh-cn` | Complete | [@hildxd](https://github.com/hildxd) |
+| 🇰🇷 | Korean | `ko` | Complete | [@supernotes](https://github.com/supernotes) |
 
 ## File Structure
 
