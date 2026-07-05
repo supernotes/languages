@@ -743,7 +743,7 @@
   "local_filesystem": {
     "add_button": "Ajouter un dossier local",
     "add_folder_failed_desc": "Impossible d'ajouter ce dossier. Vérifiez que le chemin est accessible et réessayez.",
-    "bulk_skip_description": "{count} fichier(s) local(aux) ont été ignorés — les actions groupées ne s'appliquent qu'aux cartes Supernotes.",
+    "bulk_skip_description": "{{count}} fichier(s) local(aux) ont été ignorés — les actions groupées ne s'appliquent qu'aux cartes Supernotes.",
     "bulk_skip_title": "Fichiers locaux ignorés",
     "card_action_copy_markdown": "Copier le markdown",
     "card_action_copy_path": "Copier le chemin du fichier",
@@ -1280,7 +1280,7 @@
     "change_primary_sent_desc": "Vérifiez la boîte de réception de votre e-mail principal actuel pour confirmer le changement.",
     "change_sort_manual": "Changer le Tri en 'Manuel'",
     "changes_applied": "Vos modifications ont été appliquées aux cartes sélectionnées",
-    "changes_applied_count": "Vos modifications ont été appliquées à {count} cartes",
+    "changes_applied_count": "Vos modifications ont été appliquées à {{count}} cartes",
     "check_email": "Veuillez vérifier votre e-mail",
     "check_email_delete": "Vérifiez votre e-mail pour confirmer la suppression de votre compte",
     "check_email_resend": "Vérifiez votre e-mail, ou {{tapClick}} ici pour renvoyer une confirmation",

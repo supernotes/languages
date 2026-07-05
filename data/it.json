@@ -743,7 +743,7 @@
   "local_filesystem": {
     "add_button": "Aggiungi cartella locale",
     "add_folder_failed_desc": "Impossibile aggiungere quella cartella. Controlla che il percorso sia accessibile e riprova.",
-    "bulk_skip_description": "{count} file local(i) sono stati saltati — le azioni di massa si applicano solo alle schede Supernotes.",
+    "bulk_skip_description": "{{count}} file local(i) sono stati saltati — le azioni di massa si applicano solo alle schede Supernotes.",
     "bulk_skip_title": "File locali saltati",
     "card_action_copy_markdown": "Copia markdown",
     "card_action_copy_path": "Copia percorso file",
@@ -1280,7 +1280,7 @@
     "change_primary_sent_desc": "Controlla la casella di posta della tua email principale attuale per confermare la modifica.",
     "change_sort_manual": "Cambia Ordinamento in 'Manuale'",
     "changes_applied": "Le tue modifiche sono state applicate alle schede selezionate",
-    "changes_applied_count": "Le tue modifiche sono state applicate a {count} schede",
+    "changes_applied_count": "Le tue modifiche sono state applicate a {{count}} schede",
     "check_email": "Controlla la tua email",
     "check_email_delete": "Controlla la tua email per confermare l'eliminazione del tuo account",
     "check_email_resend": "Controlla la tua email, oppure {{tapClick}} qui per reinviare una conferma",

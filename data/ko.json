@@ -743,7 +743,7 @@
   "local_filesystem": {
     "add_button": "로컬 폴더 추가",
     "add_folder_failed_desc": "해당 폴더를 추가할 수 없습니다. 경로에 접근할 수 있는지 확인하고 다시 시도하세요.",
-    "bulk_skip_description": "{count}개의 로컬 파일을 건너뛰었습니다 — 일괄 작업은 Supernotes 카드에만 적용됩니다.",
+    "bulk_skip_description": "{{count}}개의 로컬 파일을 건너뛰었습니다 — 일괄 작업은 Supernotes 카드에만 적용됩니다.",
     "bulk_skip_title": "로컬 파일 건너뜀",
     "card_action_copy_markdown": "markdown 복사",
     "card_action_copy_path": "파일 경로 복사",
@@ -1280,7 +1280,7 @@
     "change_primary_sent_desc": "현재 기본 이메일의 받은 편지함을 확인하여 변경을 완료하세요.",
     "change_sort_manual": "정렬을 '수동'으로 변경",
     "changes_applied": "선택한 카드에 변경 사항이 적용되었습니다",
-    "changes_applied_count": "{count}개 카드에 변경 사항이 적용되었습니다",
+    "changes_applied_count": "{{count}}개 카드에 변경 사항이 적용되었습니다",
     "check_email": "이메일을 확인해 주세요",
     "check_email_delete": "계정 삭제를 확인하려면 이메일을 확인하세요",
     "check_email_resend": "이메일을 확인하거나, 확인 메일을 다시 보내려면 여기를 {{tapClick}}하세요",

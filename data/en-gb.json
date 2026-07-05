@@ -743,7 +743,7 @@
   "local_filesystem": {
     "add_button": "Add local folder",
     "add_folder_failed_desc": "Couldn't add that folder. Check the path is accessible and try again.",
-    "bulk_skip_description": "{count} local file(s) were skipped — bulk actions only apply to Supernotes cards.",
+    "bulk_skip_description": "{{count}} local file(s) were skipped — bulk actions only apply to Supernotes cards.",
     "bulk_skip_title": "Local files skipped",
     "card_action_copy_markdown": "Copy markdown",
     "card_action_copy_path": "Copy file path",
@@ -1280,7 +1280,7 @@
     "change_primary_sent_desc": "Check the inbox of your current primary email to confirm the change.",
     "change_sort_manual": "Change Sort to 'Manual'",
     "changes_applied": "Your changes have been applied to the selected cards",
-    "changes_applied_count": "Your changes have been applied to {count} cards",
+    "changes_applied_count": "Your changes have been applied to {{count}} cards",
     "check_email": "Please check your email",
     "check_email_delete": "Check your email to confirm the deletion of your account",
     "check_email_resend": "Check your email, or tap/click here to resend a confirmation",

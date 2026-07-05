@@ -743,7 +743,7 @@
   "local_filesystem": {
     "add_button": "添加本地文件夹",
     "add_folder_failed_desc": "无法添加该文件夹。请检查路径是否可访问，然后重试。",
-    "bulk_skip_description": "已跳过 {count} 个本地文件 — 批量操作仅适用于 Supernotes 卡片。",
+    "bulk_skip_description": "已跳过 {{count}} 个本地文件 — 批量操作仅适用于 Supernotes 卡片。",
     "bulk_skip_title": "已跳过本地文件",
     "card_action_copy_markdown": "复制 Markdown",
     "card_action_copy_path": "复制文件路径",
@@ -1280,7 +1280,7 @@
     "change_primary_sent_desc": "请查看您当前主要电子邮件的收件箱以确认更改。",
     "change_sort_manual": "将排序更改为“手动”",
     "changes_applied": "您的更改已应用到所选卡",
-    "changes_applied_count": "您的更改已应用到 {count} 张卡",
+    "changes_applied_count": "您的更改已应用到 {{count}} 张卡",
     "check_email": "请检查您的电子邮件",
     "check_email_delete": "检查您的电子邮件以确认删除您的账户",
     "check_email_resend": "检查您的电子邮件，或在此处输入 {{tapClick}} 重新发送确认",

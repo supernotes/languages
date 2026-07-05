@@ -743,7 +743,7 @@
   "local_filesystem": {
     "add_button": "Lokalen Ordner hinzufügen",
     "add_folder_failed_desc": "Dieser Ordner konnte nicht hinzugefügt werden. Prüfe, ob der Pfad zugänglich ist, und versuche es erneut.",
-    "bulk_skip_description": "{count} lokale Datei(en) wurden übersprungen — Massenaktionen gelten nur für Supernotes-Karten.",
+    "bulk_skip_description": "{{count}} lokale Datei(en) wurden übersprungen — Massenaktionen gelten nur für Supernotes-Karten.",
     "bulk_skip_title": "Lokale Dateien übersprungen",
     "card_action_copy_markdown": "Markdown kopieren",
     "card_action_copy_path": "Dateipfad kopieren",
@@ -1280,7 +1280,7 @@
     "change_primary_sent_desc": "Überprüfe den Posteingang deiner aktuellen primären E-Mail, um die Änderung zu bestätigen.",
     "change_sort_manual": "Sortierung auf 'Manuell' ändern",
     "changes_applied": "Deine Änderungen wurden auf die ausgewählten Karten angewendet",
-    "changes_applied_count": "Deine Änderungen wurden auf {count} Karten angewendet",
+    "changes_applied_count": "Deine Änderungen wurden auf {{count}} Karten angewendet",
     "check_email": "Bitte überprüfe deine E-Mails",
     "check_email_delete": "Überprüfe deine E-Mails, um die Löschung deines Kontos zu bestätigen",
     "check_email_resend": "Überprüfe deine E-Mails oder tippe/klicke hier, um eine Bestätigung erneut zu senden",
