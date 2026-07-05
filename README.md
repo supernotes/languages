@@ -46,7 +46,7 @@ The `_lang_*` metadata keys at the top of each file define the locale's display 
 
 We welcome translations for new languages and improvements to existing ones!
 
-## Context File
+### Context File
 There is a `context.json` file that can be used to help understand the usage of the actual strings within the codebase. If you encounter any expected translations that seem to be a result of misunderstood usage of a string, please also update the context file to help translations across all languages!
 
 ### Improving an Existing Translation
