@@ -743,7 +743,7 @@
   "local_filesystem": {
     "add_button": "Adicionar pasta local",
     "add_folder_failed_desc": "Não foi possível adicionar essa pasta. Verifica se o caminho está acessível e tenta novamente.",
-    "bulk_skip_description": "{count} ficheiro(s) local(ais) foram ignorados — as ações em massa apenas se aplicam a cartões Supernotes.",
+    "bulk_skip_description": "{{count}} ficheiro(s) local(ais) foram ignorados — as ações em massa apenas se aplicam a cartões Supernotes.",
     "bulk_skip_title": "Ficheiros locais ignorados",
     "card_action_copy_markdown": "Copiar markdown",
     "card_action_copy_path": "Copiar caminho do ficheiro",
@@ -1280,7 +1280,7 @@
     "change_primary_sent_desc": "Verifique a caixa de entrada do seu e-mail principal atual para confirmar a alteração.",
     "change_sort_manual": "Alterar Ordenação para 'Manual'",
     "changes_applied": "As suas alterações foram aplicadas aos cartões selecionados",
-    "changes_applied_count": "As suas alterações foram aplicadas a {count} cartões",
+    "changes_applied_count": "As suas alterações foram aplicadas a {{count}} cartões",
     "check_email": "Por favor, verifique o seu e-mail",
     "check_email_delete": "Verifique o seu e-mail para confirmar a eliminação da sua conta",
     "check_email_resend": "Verifique o seu e-mail, ou {{tapClick}} aqui para reenviar uma confirmação",

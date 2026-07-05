@@ -743,7 +743,7 @@
   "local_filesystem": {
     "add_button": "Añadir carpeta local",
     "add_folder_failed_desc": "No se pudo añadir esa carpeta. Comprueba que la ruta es accesible y vuelve a intentarlo.",
-    "bulk_skip_description": "{count} archivo(s) local(es) se omitieron — las acciones masivas solo se aplican a las tarjetas de Supernotes.",
+    "bulk_skip_description": "{{count}} archivo(s) local(es) se omitieron — las acciones masivas solo se aplican a las tarjetas de Supernotes.",
     "bulk_skip_title": "Archivos locales omitidos",
     "card_action_copy_markdown": "Copiar Markdown",
     "card_action_copy_path": "Copiar ruta del archivo",
@@ -1280,7 +1280,7 @@
     "change_primary_sent_desc": "Revisa la bandeja de entrada de tu email principal actual para confirmar el cambio.",
     "change_sort_manual": "Cambiar Orden a 'Manual'",
     "changes_applied": "Tus cambios se han aplicado a las tarjetas seleccionadas",
-    "changes_applied_count": "Tus cambios se han aplicado a {count} tarjetas",
+    "changes_applied_count": "Tus cambios se han aplicado a {{count}} tarjetas",
     "check_email": "Por favor revisa tu correo electrónico",
     "check_email_delete": "Revisa tu correo electrónico para confirmar la eliminación de tu cuenta",
     "check_email_resend": "Revisa tu correo electrónico, o {{tapClick}} aquí para reenviar una confirmación",

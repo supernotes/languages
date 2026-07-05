@@ -743,7 +743,7 @@
   "local_filesystem": {
     "add_button": "Tambah folder lokal",
     "add_folder_failed_desc": "Tidak dapat menambahkan folder tersebut. Pastikan jalur dapat diakses lalu coba lagi.",
-    "bulk_skip_description": "{count} berkas lokal dilewati — tindakan massal hanya berlaku untuk kartu Supernotes.",
+    "bulk_skip_description": "{{count}} berkas lokal dilewati — tindakan massal hanya berlaku untuk kartu Supernotes.",
     "bulk_skip_title": "Berkas lokal dilewati",
     "card_action_copy_markdown": "Salin markdown",
     "card_action_copy_path": "Salin jalur berkas",
@@ -1280,7 +1280,7 @@
     "change_primary_sent_desc": "Periksa kotak masuk email utamamu saat ini untuk mengonfirmasi perubahan.",
     "change_sort_manual": "Ubah Urutan ke 'Manual'",
     "changes_applied": "Perubahanmu telah diterapkan pada kartu yang dipilih",
-    "changes_applied_count": "Perubahanmu telah diterapkan pada {count} kartu",
+    "changes_applied_count": "Perubahanmu telah diterapkan pada {{count}} kartu",
     "check_email": "Silakan periksa emailmu",
     "check_email_delete": "Periksa emailmu untuk mengonfirmasi penghapusan akunmu",
     "check_email_resend": "Periksa emailmu, atau ketuk/klik di sini untuk mengirim ulang konfirmasi",
