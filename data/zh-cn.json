@@ -160,6 +160,7 @@
     "copy_url": "复制链接",
     "cut_from": "从 {{name}} 剪切",
     "daily_card_assigned_to": "每日卡片已分配给",
+    "download_mermaid_diagram": "下载图表 (SVG)",
     "drop_card": "拖放卡片",
     "edited": "已编辑",
     "filter_by_backlinked_cards": "按反向链接卡片筛选",

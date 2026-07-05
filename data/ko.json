@@ -160,6 +160,7 @@
     "copy_url": "URL 복사",
     "cut_from": "{{name}}에서 잘라내기",
     "daily_card_assigned_to": "일일 카드 담당자",
+    "download_mermaid_diagram": "다이어그램 다운로드 (SVG)",
     "drop_card": "카드 놓기",
     "edited": "편집일:",
     "filter_by_backlinked_cards": "백링크된 카드로 필터링",

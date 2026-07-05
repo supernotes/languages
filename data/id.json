@@ -160,6 +160,7 @@
     "copy_url": "Salin URL",
     "cut_from": "Potong dari {{name}}",
     "daily_card_assigned_to": "Kartu harian ditugaskan ke",
+    "download_mermaid_diagram": "Unduh diagram (SVG)",
     "drop_card": "Letakkan Kartu",
     "edited": "Diedit",
     "filter_by_backlinked_cards": "Filter berdasarkan Kartu Tertaut Balik",

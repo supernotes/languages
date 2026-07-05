@@ -160,6 +160,7 @@
     "copy_url": "Copy URL",
     "cut_from": "Cut from {{name}}",
     "daily_card_assigned_to": "Daily card assigned to",
+    "download_mermaid_diagram": "Download diagram (SVG)",
     "drop_card": "Drop Card",
     "edited": "Edited",
     "filter_by_backlinked_cards": "Filter by Backlinked Cards",

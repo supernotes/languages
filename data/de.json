@@ -160,6 +160,7 @@
     "copy_url": "URL kopieren",
     "cut_from": "Ausgeschnitten aus {{name}}",
     "daily_card_assigned_to": "Tageskarte zugewiesen an",
+    "download_mermaid_diagram": "Diagramm herunterladen (SVG)",
     "drop_card": "Karte hier ablegen",
     "edited": "Bearbeitet",
     "filter_by_backlinked_cards": "Nach Karten mit Backlinks filtern",

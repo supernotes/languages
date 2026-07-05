@@ -160,6 +160,7 @@
     "copy_url": "Copia URL",
     "cut_from": "Taglia da {{name}}",
     "daily_card_assigned_to": "Scheda giornaliera assegnata a",
+    "download_mermaid_diagram": "Scarica diagramma (SVG)",
     "drop_card": "Rilascia Scheda",
     "edited": "Modificato",
     "filter_by_backlinked_cards": "Filtra per Schede con Backlink",
